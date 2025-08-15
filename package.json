@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Tên của bạn",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/he-thong-thiet-ke-chu-dan.git"
+  }
 }
